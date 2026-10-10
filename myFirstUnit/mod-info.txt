@@ -1,0 +1,5 @@
+[mod]
+title: Dual Cannon Tank
+description: A heavy armored tank with two main cannons.
+author: Antigravity
+version: 1.0
